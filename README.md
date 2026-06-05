@@ -1,6 +1,6 @@
 # Quantamental Multi-Cap Portfolio
 ### IITP Finance Club — Investing Wing Sub-Coordinator Selection Assignment
-**Submitted by:** Chinmay Choudhury | 2501ME29 | chinmay_2501me29@iitp.ac.in
+**Submitted by:** Chinmay Choudhury
 
 ---
 
